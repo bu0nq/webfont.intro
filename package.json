@@ -1,0 +1,37 @@
+{
+  "name": "@bu0nq/webfont.intro",
+  "version": "0.1.0",
+  "description": "Package for integrating WebFont Intro",
+  "main": "intro.css",
+  "files": [
+    "**/*.{woff2, woff}",
+    "**/*.{css, less, scss}"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bu0nq/webfont.intro.git"
+  },
+  "keywords": [
+    "intro",
+    "font",
+    "typeface",
+    "webfont",
+    "woff",
+    "woff2",
+    "css",
+    "less",
+    "scss"
+  ],
+  "author": {
+    "name": "bu0nq",
+    "email": "hello@bu0nq.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bu0nq/webfont.intro/issues"
+  },
+  "homepage": "https://github.com/bu0nq/webfont.intro#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
