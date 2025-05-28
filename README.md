@@ -74,8 +74,8 @@ body {
 ### Importing
 
 ```scss
-@use "~@bu0nq/webfont-intro/intro";
-@use "~@bu0nq/webfont-intro/intro-normal";
+@use "~@bu0nq/webfont.intro/intro";
+@use "~@bu0nq/webfont.intro/intro-normal";
 ```
 
 To import specific fonts, you can use:
