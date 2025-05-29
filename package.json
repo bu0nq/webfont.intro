@@ -1,12 +1,11 @@
 {
   "name": "@bu0nq/webfont.intro",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Package for integrating WebFont Intro",
   "main": "intro.css",
-  "files": [
-    "**/*.{woff2, woff}",
-    "**/*.{css, less, scss}"
-  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bu0nq/webfont.intro.git"
