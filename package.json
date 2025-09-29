@@ -1,6 +1,6 @@
 {
   "name": "@bu0nq/webfont.intro",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Package for integrating WebFont Intro",
   "main": "intro.css",
   "scripts": {

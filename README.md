@@ -28,14 +28,14 @@ body {
 ### Importing
 
 ```css
-@import "~@bu0nq/webfont.intro/intro.css";
-@import "~@bu0nq/webfont.intro/intro-normal.css";
+@import "@bu0nq/webfont.intro/intro.css";
+@import "@bu0nq/webfont.intro/intro-normal.css";
 ```
 
 To import specific fonts, you can use:
 
 ```css
-@import "~@bu0nq/webfont.intro/css/intro-400-normal.css";
+@import "@bu0nq/webfont.intro/css/intro-400-normal.css";
 ```
 
 ## Usage (LESS)
@@ -51,14 +51,14 @@ body {
 ### Importing
 
 ```less
-@import "~@bu0nq/webfont.intro/intro";
-@import "~@bu0nq/webfont.intro/intro-normal";
+@import "@bu0nq/webfont.intro/intro";
+@import "@bu0nq/webfont.intro/intro-normal";
 ```
 
 To import specific fonts, you can use:
 
 ```less
-@import "~@bu0nq/webfont.intro/less/intro-400-normal";
+@import "@bu0nq/webfont.intro/less/intro-400-normal";
 ```
 
 ## Usage (SCSS)
@@ -74,14 +74,14 @@ body {
 ### Importing
 
 ```scss
-@use "~@bu0nq/webfont.intro/intro";
-@use "~@bu0nq/webfont.intro/intro-normal";
+@use "@bu0nq/webfont.intro/intro";
+@use "@bu0nq/webfont.intro/intro-normal";
 ```
 
 To import specific fonts, you can use:
 
 ```scss
-@use "~@bu0nq/webfont.intro/scss/intro-400-normal";
+@use "@bu0nq/webfont.intro/scss/intro-400-normal";
 ```
 
 ## Licensing
